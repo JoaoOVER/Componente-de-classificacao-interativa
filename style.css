@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: hsl(216, 12%, 8%);
+    font-family: 'Comfortaa', cursive;
+    font-size: 15px;
+}
+
+main {
+    background-color: hsl(213, 19%, 18%);
+    max-width: 1440px;
+    min-width: 375px;
+    width: 500px;
+    height: 400px;
+    margin: 14% auto;
+    color: white;
+}
+
