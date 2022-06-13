@@ -12,12 +12,58 @@ body {
 }
 
 main {
-    background-color: hsl(213, 19%, 18%);
+    background-color: hsl(215, 22%, 15%);
+    border-radius: 20px;
     max-width: 1440px;
     min-width: 375px;
-    width: 500px;
-    height: 400px;
+    width: 444px;
+    padding: 10px;
+    height: 420px;
     margin: 14% auto;
     color: white;
 }
 
+main > img {
+    background: hsl(210, 19%, 18%);
+    border-radius: 40px;
+    padding: 10px;
+    margin: 30px 20px 15px 20px;
+    width: 24px;
+}
+
+main > h1 {
+    margin: 10px 20px;
+    font-weight: 700;
+}
+
+main > p {
+    color: rgba(255, 255, 255, 0.404);
+    margin: 20px 20px 23px 20px;
+    line-height: 25px;
+    width: 400px;
+}
+
+.botao {
+    background: hsl(210, 19%, 18%);
+    color: hsl(217, 9%, 55%);
+    border-radius: 30px;
+    padding: 5px;
+    margin: 0px 12px 7px 12px;
+    width: 50px;
+    height: 48px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 53px;
+    display: inline-block;
+}
+
+.botao2 {
+    background: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    box-shadow: 5px 10px 80px hsl(216deg 12% 8%);
+    display: block;
+    padding: 15px;
+    margin: 20px 44px;
+    text-align: center;
+    font-weight: 700;
+}
