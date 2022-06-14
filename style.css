@@ -13,6 +13,7 @@ body {
 
 main {
     background-color: hsl(215, 22%, 15%);
+    box-shadow: 1px 4px 0px hsl(216, 12%, 10%);
     border-radius: 20px;
     max-width: 1440px;
     min-width: 375px;
@@ -31,9 +32,24 @@ main > img {
     width: 24px;
 }
 
+.imagen {
+    width: 200px;
+    margin: 20px 120px;
+}
+
+.botao:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+}
+
 main > h1 {
     margin: 10px 20px;
     font-weight: 700;
+}
+
+div > h1 {
+    text-align: center;
+    margin: 0px 10px;
 }
 
 main > p {
@@ -41,6 +57,15 @@ main > p {
     margin: 20px 20px 23px 20px;
     line-height: 25px;
     width: 400px;
+}
+
+.p-thank-you {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
 }
 
 .botao {
@@ -66,4 +91,20 @@ main > p {
     margin: 20px 44px;
     text-align: center;
     font-weight: 700;
+}
+
+.botao2:hover {
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+}
+
+.botao3 {
+    background-color: hsl(210, 19%, 18%);
+    color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    display: block;
+    padding: 10px;
+    margin: 10px 114px 30px;
+    width: 200px;
+    text-align: center;
 }
