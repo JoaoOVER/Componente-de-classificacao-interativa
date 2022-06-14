@@ -6,3 +6,6 @@
 <p>
   <a href="https://joaoover.github.io/Interactive-rating-component/" target="_blank">Link do projeto para o Github Pages</a>
 </p>
+<p>Design original</p>
+<img src="imagens/desktop-design.jpg">
+<img src="imagens/active-states.jpg">
