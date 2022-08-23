@@ -4,7 +4,7 @@
   mais parecido possivel com o design original.
 </p>
 <p>
-  <a href="https://joaoover.github.io/Interactive-rating-component/" target="_blank">Link do projeto para o Github Pages</a>
+  <a href="https://joaoover.github.io/Componente-de-classificacao-interativa/" target="_blank">Link do projeto para o Github Pages</a>
 </p>
 <p>Design original</p>
 <img src="imagens/desktop-design.jpg">
