@@ -4,7 +4,7 @@
   mais parecido possivel com o design original.
 </p>
 <p>
-  URL: <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"/>Link para o desafio no frontend Mentor</a>
+  URL: <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"/>Link para o desafio no frontend Mentor</a><br>
   URL :<a href="https://joaoover.github.io/Componente-de-classificacao-interativa"/>Solução do desafio</a>
 </p>
 <p>Design original</p>
